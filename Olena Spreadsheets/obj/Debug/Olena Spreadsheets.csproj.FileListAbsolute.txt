@@ -1,0 +1,83 @@
+D:\Проги\Olena Spreadsheets\Olena Spreadsheets\obj\Debug\Olena Spreadsheets.csprojAssemblyReference.cache
+D:\Проги\Olena Spreadsheets\Olena Spreadsheets\obj\Debug\Olena Spreadsheets.csproj.Antlr4GeneratedCodeFileListAbsolute.txt
+D:\Проги\Olena Spreadsheets\Olena Spreadsheets\obj\Debug\Olena_Spreadsheets.Form1.resources
+D:\Проги\Olena Spreadsheets\Olena Spreadsheets\obj\Debug\Olena_Spreadsheets.Properties.Resources.resources
+D:\Проги\Olena Spreadsheets\Olena Spreadsheets\obj\Debug\Olena_Spreadsheets.Resource1.resources
+D:\Проги\Olena Spreadsheets\Olena Spreadsheets\obj\Debug\Olena Spreadsheets.csproj.GenerateResource.cache
+D:\Progs\Olena SpreadSheets\Olena Spreadsheets\bin\Debug\Resources\edit-paste-512.ico
+D:\Progs\Olena SpreadSheets\Olena Spreadsheets\bin\Debug\Olena Spreadsheets.exe.config
+D:\Progs\Olena SpreadSheets\Olena Spreadsheets\bin\Debug\Olena Spreadsheets.exe
+D:\Progs\Olena SpreadSheets\Olena Spreadsheets\bin\Debug\Olena Spreadsheets.pdb
+D:\Progs\Olena SpreadSheets\Olena Spreadsheets\bin\Debug\Antlr3.Runtime.dll
+D:\Progs\Olena SpreadSheets\Olena Spreadsheets\bin\Debug\Antlr4.Runtime.dll
+D:\Progs\Olena SpreadSheets\Olena Spreadsheets\bin\Debug\Antlr4.Runtime.xml
+D:\Progs\Olena SpreadSheets\Olena Spreadsheets\obj\Debug\LanguageLexer.cs
+D:\Progs\Olena SpreadSheets\Olena Spreadsheets\obj\Debug\LanguageParser.cs
+D:\Progs\Olena SpreadSheets\Olena Spreadsheets\obj\Debug\LanguageListener.cs
+D:\Progs\Olena SpreadSheets\Olena Spreadsheets\obj\Debug\LanguageBaseListener.cs
+D:\Progs\Olena SpreadSheets\Olena Spreadsheets\obj\Debug\LanguageVisitor.cs
+D:\Progs\Olena SpreadSheets\Olena Spreadsheets\obj\Debug\LanguageBaseVisitor.cs
+D:\Progs\Olena SpreadSheets\Olena Spreadsheets\obj\Debug\Olena Spreadsheets.csproj.Antlr4GeneratedCodeFileListAbsolute.txt
+D:\Progs\Olena SpreadSheets\Olena Spreadsheets\obj\Debug\Olena_Spreadsheets.Form1.resources
+D:\Progs\Olena SpreadSheets\Olena Spreadsheets\obj\Debug\Olena_Spreadsheets.Properties.Resources.resources
+D:\Progs\Olena SpreadSheets\Olena Spreadsheets\obj\Debug\Olena_Spreadsheets.Resource1.resources
+D:\Progs\Olena SpreadSheets\Olena Spreadsheets\obj\Debug\Olena Spreadsheets.csproj.GenerateResource.cache
+D:\Progs\Olena SpreadSheets\Olena Spreadsheets\obj\Debug\Olena Spreadsheets.csproj.CopyComplete
+D:\Progs\Olena SpreadSheets\Olena Spreadsheets\obj\Debug\Olena Spreadsheets.exe
+D:\Progs\Olena SpreadSheets\Olena Spreadsheets\obj\Debug\Olena Spreadsheets.pdb
+D:\Progs\Olena SpreadSheets\Olena Spreadsheets\obj\Debug\Olena Spreadsheets.csprojAssemblyReference.cache
+E:\Olena STORAGE\Progs\1ARCHIVE\2 course Omelchuk\Olena SpreadSheets\Olena Spreadsheets\bin\Debug\Resources\edit-paste-512.ico
+E:\Olena STORAGE\Progs\1ARCHIVE\2 course Omelchuk\Olena SpreadSheets\Olena Spreadsheets\bin\Debug\Olena Spreadsheets.exe.config
+E:\Olena STORAGE\Progs\1ARCHIVE\2 course Omelchuk\Olena SpreadSheets\Olena Spreadsheets\bin\Debug\Olena Spreadsheets.exe
+E:\Olena STORAGE\Progs\1ARCHIVE\2 course Omelchuk\Olena SpreadSheets\Olena Spreadsheets\bin\Debug\Olena Spreadsheets.pdb
+E:\Olena STORAGE\Progs\1ARCHIVE\2 course Omelchuk\Olena SpreadSheets\Olena Spreadsheets\bin\Debug\Antlr3.Runtime.dll
+E:\Olena STORAGE\Progs\1ARCHIVE\2 course Omelchuk\Olena SpreadSheets\Olena Spreadsheets\bin\Debug\Antlr4.Runtime.dll
+E:\Olena STORAGE\Progs\1ARCHIVE\2 course Omelchuk\Olena SpreadSheets\Olena Spreadsheets\bin\Debug\Antlr4.Runtime.xml
+E:\Olena STORAGE\Progs\1ARCHIVE\2 course Omelchuk\Olena SpreadSheets\Olena Spreadsheets\obj\Debug\Olena Spreadsheets.csprojAssemblyReference.cache
+E:\Olena STORAGE\Progs\1ARCHIVE\2 course Omelchuk\Olena SpreadSheets\Olena Spreadsheets\obj\Debug\LanguageLexer.cs
+E:\Olena STORAGE\Progs\1ARCHIVE\2 course Omelchuk\Olena SpreadSheets\Olena Spreadsheets\obj\Debug\LanguageParser.cs
+E:\Olena STORAGE\Progs\1ARCHIVE\2 course Omelchuk\Olena SpreadSheets\Olena Spreadsheets\obj\Debug\LanguageListener.cs
+E:\Olena STORAGE\Progs\1ARCHIVE\2 course Omelchuk\Olena SpreadSheets\Olena Spreadsheets\obj\Debug\LanguageBaseListener.cs
+E:\Olena STORAGE\Progs\1ARCHIVE\2 course Omelchuk\Olena SpreadSheets\Olena Spreadsheets\obj\Debug\LanguageVisitor.cs
+E:\Olena STORAGE\Progs\1ARCHIVE\2 course Omelchuk\Olena SpreadSheets\Olena Spreadsheets\obj\Debug\LanguageBaseVisitor.cs
+E:\Olena STORAGE\Progs\1ARCHIVE\2 course Omelchuk\Olena SpreadSheets\Olena Spreadsheets\obj\Debug\Olena Spreadsheets.csproj.Antlr4GeneratedCodeFileListAbsolute.txt
+E:\Olena STORAGE\Progs\1ARCHIVE\2 course Omelchuk\Olena SpreadSheets\Olena Spreadsheets\obj\Debug\Olena_Spreadsheets.Form1.resources
+E:\Olena STORAGE\Progs\1ARCHIVE\2 course Omelchuk\Olena SpreadSheets\Olena Spreadsheets\obj\Debug\Olena_Spreadsheets.Properties.Resources.resources
+E:\Olena STORAGE\Progs\1ARCHIVE\2 course Omelchuk\Olena SpreadSheets\Olena Spreadsheets\obj\Debug\Olena_Spreadsheets.Resource1.resources
+E:\Olena STORAGE\Progs\1ARCHIVE\2 course Omelchuk\Olena SpreadSheets\Olena Spreadsheets\obj\Debug\Olena Spreadsheets.csproj.GenerateResource.cache
+E:\Olena STORAGE\Progs\1ARCHIVE\2 course Omelchuk\Olena SpreadSheets\Olena Spreadsheets\obj\Debug\Olena Spreadsheets.csproj.CoreCompileInputs.cache
+E:\Olena STORAGE\Progs\1ARCHIVE\2 course Omelchuk\Olena SpreadSheets\Olena Spreadsheets\obj\Debug\Olena Spreadsheets.csproj.CopyComplete
+E:\Olena STORAGE\Progs\1ARCHIVE\2 course Omelchuk\Olena SpreadSheets\Olena Spreadsheets\obj\Debug\Olena Spreadsheets.exe
+E:\Olena STORAGE\Progs\1ARCHIVE\2 course Omelchuk\Olena SpreadSheets\Olena Spreadsheets\obj\Debug\Olena Spreadsheets.pdb
+C:\Users\olefi\Desktop\Olena's SpreadSheets\Olena Spreadsheets\bin\Debug\Resources\edit-paste-512.ico
+C:\Users\olefi\Desktop\Olena's SpreadSheets\Olena Spreadsheets\bin\Debug\Olena Spreadsheets.exe.config
+C:\Users\olefi\Desktop\Olena's SpreadSheets\Olena Spreadsheets\bin\Debug\Olena Spreadsheets.exe
+C:\Users\olefi\Desktop\Olena's SpreadSheets\Olena Spreadsheets\bin\Debug\Olena Spreadsheets.pdb
+C:\Users\olefi\Desktop\Olena's SpreadSheets\Olena Spreadsheets\bin\Debug\Antlr3.Runtime.dll
+C:\Users\olefi\Desktop\Olena's SpreadSheets\Olena Spreadsheets\bin\Debug\Antlr4.Runtime.dll
+C:\Users\olefi\Desktop\Olena's SpreadSheets\Olena Spreadsheets\bin\Debug\Antlr4.Runtime.xml
+C:\Users\olefi\Desktop\Olena's SpreadSheets\Olena Spreadsheets\obj\Debug\Olena Spreadsheets.csprojAssemblyReference.cache
+C:\Users\olefi\Desktop\Olena's SpreadSheets\Olena Spreadsheets\obj\Debug\LanguageLexer.cs
+C:\Users\olefi\Desktop\Olena's SpreadSheets\Olena Spreadsheets\obj\Debug\LanguageParser.cs
+C:\Users\olefi\Desktop\Olena's SpreadSheets\Olena Spreadsheets\obj\Debug\LanguageListener.cs
+C:\Users\olefi\Desktop\Olena's SpreadSheets\Olena Spreadsheets\obj\Debug\LanguageBaseListener.cs
+C:\Users\olefi\Desktop\Olena's SpreadSheets\Olena Spreadsheets\obj\Debug\LanguageVisitor.cs
+C:\Users\olefi\Desktop\Olena's SpreadSheets\Olena Spreadsheets\obj\Debug\LanguageBaseVisitor.cs
+C:\Users\olefi\Desktop\Olena's SpreadSheets\Olena Spreadsheets\obj\Debug\Olena Spreadsheets.csproj.Antlr4GeneratedCodeFileListAbsolute.txt
+C:\Users\olefi\Desktop\Olena's SpreadSheets\Olena Spreadsheets\obj\Debug\Olena_Spreadsheets.Form1.resources
+C:\Users\olefi\Desktop\Olena's SpreadSheets\Olena Spreadsheets\obj\Debug\Olena_Spreadsheets.Properties.Resources.resources
+C:\Users\olefi\Desktop\Olena's SpreadSheets\Olena Spreadsheets\obj\Debug\Olena_Spreadsheets.Resource1.resources
+C:\Users\olefi\Desktop\Olena's SpreadSheets\Olena Spreadsheets\obj\Debug\Olena Spreadsheets.csproj.GenerateResource.cache
+C:\Users\olefi\Desktop\Olena's SpreadSheets\Olena Spreadsheets\obj\Debug\Olena Spreadsheets.csproj.CoreCompileInputs.cache
+C:\Users\olefi\Desktop\Olena's SpreadSheets\Olena Spreadsheets\obj\Debug\Olena Spreadsheets.csproj.CopyComplete
+C:\Users\olefi\Desktop\Olena's SpreadSheets\Olena Spreadsheets\obj\Debug\Olena Spreadsheets.exe
+C:\Users\olefi\Desktop\Olena's SpreadSheets\Olena Spreadsheets\obj\Debug\Olena Spreadsheets.pdb
+C:\Users\olefi\Desktop\UNIK== (помойка)\Olena's SpreadSheets\Olena Spreadsheets\obj\Debug\Olena Spreadsheets.csprojAssemblyReference.cache
+C:\Users\olefi\Desktop\UNIK== (помойка)\Olena's SpreadSheets\Olena Spreadsheets\obj\Debug\Olena Spreadsheets.csproj.Antlr4GeneratedCodeFileListAbsolute.txt
+C:\Users\olefi\Desktop\UNIK== (помойка)\Olena's SpreadSheets\Olena Spreadsheets\obj\Debug\Olena_Spreadsheets.Form1.resources
+C:\Users\olefi\Desktop\UNIK== (помойка)\Olena's SpreadSheets\Olena Spreadsheets\obj\Debug\Olena_Spreadsheets.Properties.Resources.resources
+C:\Users\olefi\Desktop\UNIK== (помойка)\Olena's SpreadSheets\Olena Spreadsheets\obj\Debug\Olena_Spreadsheets.Resource1.resources
+C:\Users\olefi\Desktop\UNIK== (помойка)\Olena's SpreadSheets\Olena Spreadsheets\obj\Debug\Olena Spreadsheets.csproj.GenerateResource.cache
+C:\Users\olefi\Desktop\UNIK== (помойка)\Olena's SpreadSheets\Olena Spreadsheets\obj\Debug\Olena Spreadsheets.csproj.CoreCompileInputs.cache
+C:\Users\olefi\Desktop\UNIK== (помойка)\Olena's SpreadSheets\Olena Spreadsheets\obj\Debug\Olena Spreadsheets.exe
+C:\Users\olefi\Desktop\UNIK== (помойка)\Olena's SpreadSheets\Olena Spreadsheets\obj\Debug\Olena Spreadsheets.pdb

@@ -1,0 +1,32 @@
+D:\Проги\Olena Spreadsheets\Olena Spreadsheets\bin\Release\Olena Spreadsheets.exe.config
+D:\Проги\Olena Spreadsheets\Olena Spreadsheets\bin\Release\Olena Spreadsheets.exe
+D:\Проги\Olena Spreadsheets\Olena Spreadsheets\bin\Release\Olena Spreadsheets.pdb
+D:\Проги\Olena Spreadsheets\Olena Spreadsheets\obj\Release\Olena_Spreadsheets.Form1.resources
+D:\Проги\Olena Spreadsheets\Olena Spreadsheets\obj\Release\Olena_Spreadsheets.Properties.Resources.resources
+D:\Проги\Olena Spreadsheets\Olena Spreadsheets\obj\Release\Olena Spreadsheets.csproj.GenerateResource.cache
+D:\Проги\Olena Spreadsheets\Olena Spreadsheets\obj\Release\Olena Spreadsheets.exe
+D:\Проги\Olena Spreadsheets\Olena Spreadsheets\obj\Release\Olena Spreadsheets.pdb
+D:\Проги\Olena Spreadsheets\Olena Spreadsheets\obj\Release\Olena_Spreadsheets.Resource1.resources
+D:\Проги\Olena Spreadsheets\Olena Spreadsheets\bin\Release\Resources\edit-paste-512.ico
+D:\Progs\Olena SpreadSheets\Olena Spreadsheets\bin\Release\Resources\edit-paste-512.ico
+D:\Progs\Olena SpreadSheets\Olena Spreadsheets\bin\Release\Olena Spreadsheets.exe.config
+D:\Progs\Olena SpreadSheets\Olena Spreadsheets\bin\Release\Olena Spreadsheets.exe
+D:\Progs\Olena SpreadSheets\Olena Spreadsheets\bin\Release\Olena Spreadsheets.pdb
+D:\Progs\Olena SpreadSheets\Olena Spreadsheets\bin\Release\Antlr3.Runtime.dll
+D:\Progs\Olena SpreadSheets\Olena Spreadsheets\bin\Release\Antlr4.Runtime.dll
+D:\Progs\Olena SpreadSheets\Olena Spreadsheets\bin\Release\Antlr4.Runtime.xml
+D:\Progs\Olena SpreadSheets\Olena Spreadsheets\obj\Release\Olena Spreadsheets.csprojAssemblyReference.cache
+D:\Progs\Olena SpreadSheets\Olena Spreadsheets\obj\Release\LanguageLexer.cs
+D:\Progs\Olena SpreadSheets\Olena Spreadsheets\obj\Release\LanguageParser.cs
+D:\Progs\Olena SpreadSheets\Olena Spreadsheets\obj\Release\LanguageListener.cs
+D:\Progs\Olena SpreadSheets\Olena Spreadsheets\obj\Release\LanguageBaseListener.cs
+D:\Progs\Olena SpreadSheets\Olena Spreadsheets\obj\Release\LanguageVisitor.cs
+D:\Progs\Olena SpreadSheets\Olena Spreadsheets\obj\Release\LanguageBaseVisitor.cs
+D:\Progs\Olena SpreadSheets\Olena Spreadsheets\obj\Release\Olena Spreadsheets.csproj.Antlr4GeneratedCodeFileListAbsolute.txt
+D:\Progs\Olena SpreadSheets\Olena Spreadsheets\obj\Release\Olena_Spreadsheets.Form1.resources
+D:\Progs\Olena SpreadSheets\Olena Spreadsheets\obj\Release\Olena_Spreadsheets.Properties.Resources.resources
+D:\Progs\Olena SpreadSheets\Olena Spreadsheets\obj\Release\Olena_Spreadsheets.Resource1.resources
+D:\Progs\Olena SpreadSheets\Olena Spreadsheets\obj\Release\Olena Spreadsheets.csproj.GenerateResource.cache
+D:\Progs\Olena SpreadSheets\Olena Spreadsheets\obj\Release\Olena Spreadsheets.csproj.CopyComplete
+D:\Progs\Olena SpreadSheets\Olena Spreadsheets\obj\Release\Olena Spreadsheets.exe
+D:\Progs\Olena SpreadSheets\Olena Spreadsheets\obj\Release\Olena Spreadsheets.pdb
