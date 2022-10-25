@@ -57,7 +57,7 @@ namespace Olena_Spreadsheets
             this.menuStrip1.Location = new System.Drawing.Point(0, 0);
             this.menuStrip1.Name = "menuStrip1";
             this.menuStrip1.Padding = new System.Windows.Forms.Padding(5, 2, 0, 2);
-            this.menuStrip1.Size = new System.Drawing.Size(1325, 30);
+            this.menuStrip1.Size = new System.Drawing.Size(1325, 28);
             this.menuStrip1.TabIndex = 0;
             this.menuStrip1.Text = "menuStrip1";
             // 
@@ -68,7 +68,7 @@ namespace Olena_Spreadsheets
             this.зберегтиToolStripMenuItem});
             this.файлToolStripMenuItem.Name = "файлToolStripMenuItem";
             this.файлToolStripMenuItem.ShortcutKeyDisplayString = "";
-            this.файлToolStripMenuItem.Size = new System.Drawing.Size(59, 26);
+            this.файлToolStripMenuItem.Size = new System.Drawing.Size(59, 24);
             this.файлToolStripMenuItem.Text = "Файл";
             // 
             // відкритиToolStripMenuItem
@@ -95,7 +95,7 @@ namespace Olena_Spreadsheets
             // інфоToolStripMenuItem
             // 
             this.інфоToolStripMenuItem.Name = "інфоToolStripMenuItem";
-            this.інфоToolStripMenuItem.Size = new System.Drawing.Size(55, 26);
+            this.інфоToolStripMenuItem.Size = new System.Drawing.Size(55, 24);
             this.інфоToolStripMenuItem.Text = "Інфо";
             this.інфоToolStripMenuItem.Click += new System.EventHandler(this.інфоToolStripMenuItem_Click);
             // 
@@ -122,7 +122,7 @@ namespace Olena_Spreadsheets
             this.toolStripLabel7,
             this.toolStripLabel1,
             this.toolStripLabel4});
-            this.toolStrip1.Location = new System.Drawing.Point(0, 30);
+            this.toolStrip1.Location = new System.Drawing.Point(0, 28);
             this.toolStrip1.Name = "toolStrip1";
             this.toolStrip1.Padding = new System.Windows.Forms.Padding(0, 0, 1, 60);
             this.toolStrip1.Size = new System.Drawing.Size(1325, 113);
@@ -203,14 +203,15 @@ namespace Olena_Spreadsheets
             this.dataGridView1.DefaultCellStyle = dataGridViewCellStyle2;
             this.dataGridView1.Dock = System.Windows.Forms.DockStyle.Fill;
             this.dataGridView1.EditMode = System.Windows.Forms.DataGridViewEditMode.EditProgrammatically;
-            this.dataGridView1.Location = new System.Drawing.Point(0, 143);
+            this.dataGridView1.Location = new System.Drawing.Point(0, 141);
             this.dataGridView1.Margin = new System.Windows.Forms.Padding(3, 2, 3, 2);
             this.dataGridView1.Name = "dataGridView1";
             this.dataGridView1.RowHeadersWidth = 51;
             this.dataGridView1.RowTemplate.Height = 24;
-            this.dataGridView1.Size = new System.Drawing.Size(1325, 451);
+            this.dataGridView1.Size = new System.Drawing.Size(1325, 453);
             this.dataGridView1.TabIndex = 2;
             this.dataGridView1.CellClick += new System.Windows.Forms.DataGridViewCellEventHandler(this.dataGridView1_CellClick);
+            this.dataGridView1.CellContentClick += new System.Windows.Forms.DataGridViewCellEventHandler(this.dataGridView1_CellContentClick);
             // 
             // ExprTextBox
             // 
@@ -521,6 +522,11 @@ namespace Olena_Spreadsheets
                 SaveDoc();
             if (res == System.Windows.Forms.DialogResult.Cancel)
                 e.Cancel = true;
+        }
+
+        private void dataGridView1_CellContentClick(object sender, DataGridViewCellEventArgs e)
+        {
+
         }
     }
 }

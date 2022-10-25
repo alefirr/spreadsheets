@@ -1,0 +1,23 @@
+C:\Users\olefi\Desktop\Olena's SpreadSheets\Tests\bin\Debug\ru\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.resources.dll
+C:\Users\olefi\Desktop\Olena's SpreadSheets\Tests\bin\Debug\ru\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.resources.dll
+C:\Users\olefi\Desktop\Olena's SpreadSheets\Tests\bin\Debug\ru\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+C:\Users\olefi\Desktop\Olena's SpreadSheets\Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\olefi\Desktop\Olena's SpreadSheets\Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\olefi\Desktop\Olena's SpreadSheets\Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\olefi\Desktop\Olena's SpreadSheets\Tests\bin\Debug\Resources\edit-paste-512.ico
+C:\Users\olefi\Desktop\Olena's SpreadSheets\Tests\bin\Debug\Tests.dll
+C:\Users\olefi\Desktop\Olena's SpreadSheets\Tests\bin\Debug\Tests.pdb
+C:\Users\olefi\Desktop\Olena's SpreadSheets\Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\olefi\Desktop\Olena's SpreadSheets\Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\olefi\Desktop\Olena's SpreadSheets\Tests\bin\Debug\Olena Spreadsheets.exe
+C:\Users\olefi\Desktop\Olena's SpreadSheets\Tests\bin\Debug\Antlr4.Runtime.dll
+C:\Users\olefi\Desktop\Olena's SpreadSheets\Tests\bin\Debug\Olena Spreadsheets.pdb
+C:\Users\olefi\Desktop\Olena's SpreadSheets\Tests\bin\Debug\Olena Spreadsheets.exe.config
+C:\Users\olefi\Desktop\Olena's SpreadSheets\Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\olefi\Desktop\Olena's SpreadSheets\Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\olefi\Desktop\Olena's SpreadSheets\Tests\bin\Debug\Antlr4.Runtime.xml
+C:\Users\olefi\Desktop\Olena's SpreadSheets\Tests\obj\Debug\Tests.csprojAssemblyReference.cache
+C:\Users\olefi\Desktop\Olena's SpreadSheets\Tests\obj\Debug\Tests.csproj.CoreCompileInputs.cache
+C:\Users\olefi\Desktop\Olena's SpreadSheets\Tests\obj\Debug\Tests.csproj.CopyComplete
+C:\Users\olefi\Desktop\Olena's SpreadSheets\Tests\obj\Debug\Tests.dll
+C:\Users\olefi\Desktop\Olena's SpreadSheets\Tests\obj\Debug\Tests.pdb

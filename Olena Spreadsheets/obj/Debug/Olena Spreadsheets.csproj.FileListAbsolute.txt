@@ -56,7 +56,6 @@ C:\Users\olefi\Desktop\Olena's SpreadSheets\Olena Spreadsheets\bin\Debug\Olena S
 C:\Users\olefi\Desktop\Olena's SpreadSheets\Olena Spreadsheets\bin\Debug\Antlr3.Runtime.dll
 C:\Users\olefi\Desktop\Olena's SpreadSheets\Olena Spreadsheets\bin\Debug\Antlr4.Runtime.dll
 C:\Users\olefi\Desktop\Olena's SpreadSheets\Olena Spreadsheets\bin\Debug\Antlr4.Runtime.xml
-C:\Users\olefi\Desktop\Olena's SpreadSheets\Olena Spreadsheets\obj\Debug\Olena Spreadsheets.csprojAssemblyReference.cache
 C:\Users\olefi\Desktop\Olena's SpreadSheets\Olena Spreadsheets\obj\Debug\LanguageLexer.cs
 C:\Users\olefi\Desktop\Olena's SpreadSheets\Olena Spreadsheets\obj\Debug\LanguageParser.cs
 C:\Users\olefi\Desktop\Olena's SpreadSheets\Olena Spreadsheets\obj\Debug\LanguageListener.cs
